@@ -15,11 +15,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](.images/screenshot.png)
+![](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
 - Live Site URL: [Live site URL](https://qr-code-component-jet.vercel.app/)
 
 ## My process
